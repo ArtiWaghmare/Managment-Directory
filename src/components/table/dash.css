@@ -1,0 +1,274 @@
+.row-buttons {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+.btn {
+  margin-right: 10px;
+
+}
+
+.font {
+  border-right: none;
+  border-left: none;
+
+}
+
+.my-custom-dashboard {
+  width: 990px;
+  
+
+  border-radius: 10px;
+  border: solid 1px #3D3D3D4D;
+  font-family: Mitr;
+  font-family: 10px;
+}
+
+.size-1 {
+  width: 300px;
+}
+
+.table-light {
+  background-color: #E9F2F7;
+  border-right: none;
+}
+
+.logo-3 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.bi-pencil-square {
+  background-color: #0E83D9;
+  color: #E9F2F7;
+  border-radius: 5px;
+  width: 30px;
+  height: 30px;
+  padding: 5px 5px;
+}
+
+.bi-gear {
+  background-color: #979799;
+  color: #E9F2F7;
+  border-radius: 5px;
+  width: 30px;
+  height: 30px;
+  padding: 5px 5px;
+}
+
+.container-fluid {
+  padding: 20px;
+}
+
+.header-row {
+ 
+width: 998px;
+margin-left: 200px;
+}
+
+.mmm {
+  margin-top: 30px;
+margin-left: 20px;
+  border: none;
+
+}
+
+
+.table-one {
+  text-align: center;
+
+  border-bottom: solid 2px rgb(170, 168, 168);
+  margin-bottom: 300px;
+}
+
+
+.row-buttons {
+  margin-top: 20px;
+}
+
+
+.btn {
+  margin-right: 10px;
+}
+
+
+.col-md-4,
+.col-md-6,
+.col-md-2 {
+  border: 1px solid #ddd;
+  padding: 10px;
+
+}
+
+
+.table {
+  width: 10%;
+  border-collapse: collapse;
+
+}
+
+.table-1 {
+  border-bottom: solid 2px #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+
+.gcolor {
+  background-color: #0672A3;
+  color: white;
+  text-align: center;
+  width: 180px;
+  height: 40px;
+
+
+  border-radius: 8px;
+  border: 1px;
+
+}
+.import-button {
+  background-color: #0672A3;
+  color: white;
+  text-align: center;
+  width: 150px;
+  height: 40px;
+  font-size: 14px;
+font-size: 1px;
+  border-radius: 8px;
+  border: 1px;
+  font-size: 14px;
+}
+.bcolor {
+  background-color: #0672A3;
+  width: 180px;
+  height: 40px;
+  color: white;
+  text-align: center;
+  font-size: 14px;
+  border-radius: 8px;
+  border: 1px;
+
+}
+
+.btcolor {
+  background-color: #3D3D3D33;
+  width: 60px;
+  height: 40px;
+
+  font-size: 14px;
+  border-radius: 8px;
+  border: 1px;
+  color: #0672A3;
+
+}
+
+.btcolor-1 {
+  background-color: #3D3D3D33;
+  width: 150px;
+  height: 40px;
+  top: 278px;
+  left: 938px;
+  border-radius: 8px;
+  border: 1px;
+  color: #0672A3;
+  font-size: 14px;
+}
+
+.trow {
+  color: white;
+  width: 109px;
+  height: 45px;
+  font-size: 10px;
+  border-radius: 8px;
+  border: 1px;
+  background-color: #0672A3;
+
+}
+
+.font {
+  font-size: 10px;
+  font-family: Mitr;
+
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+
+}
+
+.heade {
+  margin-top: 200px;
+}
+
+.space {
+  margin-bottom: 30px;
+
+  top: 160px;
+  left: 538px;
+  border: 1px;
+
+}
+
+.clt {
+  color: #0BA649;
+}
+
+.input-group-text {
+  background-color: white;
+}
+
+
+.bi-search {
+  background-color: white;
+  color: black;
+}
+
+.logo-5 {
+  background-color: #0E83D9;
+  border-radius: 8px;
+  border: none;
+  width: 44px;
+  height: 24px;
+  margin-top: 5px;
+}
+
+
+.header-two {
+  border-bottom: solid 2px #3D3D3D4D;
+  margin-bottom: 10px;
+}
+
+.dealer-one {
+  margin-left: 20px;
+  font-family: Mitr;
+  font-size: 18px;
+
+  line-height: 27px;
+  letter-spacing: 0.02em;
+  text-align: left;
+
+}
+
+.col-md-3 {
+  font-family: Mitr;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0.02em;
+  text-align: left;
+
+}
+.gap{
+  width: 940px;
+  margin-left: 20px;
+  margin-right: 28
+}

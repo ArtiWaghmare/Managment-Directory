@@ -1,0 +1,104 @@
+.terrytory {
+  background-color: #E8ECF3;
+  padding-bottom: 40px;
+  padding-Top: 40px;
+
+
+}
+
+.Add-Territory {
+
+  margin-bottom: 15px;
+  font-family: Mitr;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0.02em;
+  text-align: left;
+
+}
+
+.col-md-3 {
+  margin-left: 70px;
+
+}
+
+.terrytory .text-right {
+  text-align: right;
+}
+
+
+.button-one {
+  background-color: #0672A3;
+  border: solid 1px#0672A3;
+  color: aliceblue;
+  width: 150px;
+  height: 45px;
+  border-radius: 10px;
+  margin-right: 90px;
+  margin-left: 500px;
+  margin-top: 40px;
+  font-family: Mitr;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 31px;
+
+  text-align: center;
+
+}
+
+
+.button-two {
+  background-color: white;
+  border: solid 2px#0672A3;
+  width: 150px;
+  height: 45px;
+  border-radius: 10px;
+
+  margin-top: 40px;
+  font-family: Mitr;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: center;
+
+
+}
+
+.bi-plus {
+  background-color: #0672A3;
+  color: #E8ECF3;
+  height: 25px;
+  width: 25px;
+  border-radius: 30px;
+ 
+}
+
+
+.terrytory .form-control-t {
+  border: 1px solid #504e4e;
+  width: 40px;
+  height: 40px;
+  margin-top: 30px;
+  border-radius: 8px;
+
+}
+
+
+
+.terrytory .form-select {
+  border: 1px solid #504e4e;
+}
+
+.terry-two {
+  margin-left: 40px;
+}
+
+.plus{
+  text-align: center;
+  margin-left: 80px;
+}
+.pluss{
+margin-left: 160px;
+}

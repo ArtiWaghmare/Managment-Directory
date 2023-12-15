@@ -1,0 +1,160 @@
+.sidebar {
+  border-radius: 10px;
+  border: 1px solid rgba(61, 61, 61, 0.40);
+  background: #FFF;
+  width: 600px;
+  height: 900px;
+  flex-shrink: 0;
+  margin-top: 10px;
+
+
+}
+
+.sidebar.open {
+  width: 250px;
+}
+
+.sidebar.closed {
+  width: 0;
+}
+
+.top-section {
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  border-bottom: solid 2px rgb(6, 114, 163);
+}
+
+.toggle-btn {
+  background-color:
+    #0672A3;
+  color: #fff;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  top: 91px;
+  left: 412px;
+  border-radius: 10px;
+
+}
+
+.search-input {
+  padding: 10px;
+}
+
+.search-input input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.sidebar-column {
+  padding: 10px;
+}
+
+.small {
+  width: 100px;
+  height: 30px;
+  width: 130px;
+
+  top: 86px;
+  left: 112px;
+
+}
+
+.logo-1 {
+  width: 25px;
+  height: 25px;
+  top: 332px;
+  left: 112px;
+  margin-right: 20px;
+
+
+
+}
+
+.item-1 {
+  width: 230px;
+  height: 60px;
+
+  justify-content: center;
+  margin-left: 0px;
+  color: aliceblue;
+  background-color: #0672A3;
+  font-family: Mitr;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  padding-top: 10px;
+  padding-left: 5px;
+  border-radius: 5px;
+  text-align: left;
+  margin-bottom: 20px;
+
+}
+
+.item-2 {
+  width: 230px;
+  height: 60px;
+
+  justify-content: center;
+  margin-left: 0px;
+  color: rgb(5, 5, 5);
+
+  font-family: Mitr;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  padding-top: 10px;
+  padding-left: 5px;
+  border-radius: 5px;
+  text-align: left;
+  margin-bottom: 20px;
+
+}
+
+.sidebar-text {
+  font-family: Mitr;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0.02em;
+  text-align: left;
+
+}
+
+.bi-square {
+  margin-right: 12px;
+  margin-left: 12px;
+  border: solid 2px #0672A3;
+}
+.sidebar-link {
+  text-decoration: none; 
+ color: black;
+ font-family: Mitr;
+ font-size: 14px;
+ font-weight: 400;
+ line-height: 33px;
+ letter-spacing: 0.02em;
+ text-align: left;
+ 
+}
+
+.sidebar-link:hover {
+  text-decoration: none; 
+  font-family: Mitr;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
